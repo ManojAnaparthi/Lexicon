@@ -16,8 +16,7 @@
 
 ## 🎥 Live Demo
 
-👉 [Streamlit Demo Video]([https://iitgnacin-my.sharepoint.com/:v:/g/personal/23110071_iitgn_ac_in/Eetee1CE1HdKpPXwFzSvb84BzeRomRpsBKF4EnEJVmJzLA?e=XAthoS](https://iitgnacin-my.sharepoint.com/:v:/g/personal/23110025_iitgn_ac_in/EResIprMMyJJhK52XxIrGIMBf4Hs5K4U9RNmkhnDAvfvZw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=ANJs5f))
-
+👉 [Streamlit Demo Video](https://iitgnacin-my.sharepoint.com/:v:/g/personal/23110025_iitgn_ac_in/EResIprMMyJJhK52XxIrGIMBf4Hs5K4U9RNmkhnDAvfvZw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=ANJs5f)
 ## ⚙️ Features
 
 - 🔹 Fast semantic retrieval with **Word2Vec** and **FAISS**
