@@ -42,13 +42,13 @@
 ## 📁 Repository Structure
 
 Lexicon/
-├── data/ # Processed MS MARCO subset and utility data files
-├── model/ # Saved Word2Vec and BERT models
-├── notebook/ # Jupyter notebooks for development and analysis
-├── web_app/ # Streamlit app code for demo
-├── Project_Report_Lexicon.pdf # Final report
+├── data/            # Processed MS MARCO subset and utility data files
+├── model/           # Saved Word2Vec and BERT models
+├── notebook/        # Jupyter notebooks for development and analysis
+├── web_app/        # Streamlit app code for demo
+├── Project_Report_Lexicon.pdf  # Final report
 ├── requirements.txt # Python dependencies
-└── README.md # You're here
+└── README.md       # You're here
 
 
 ## 📚 Tools & Libraries
