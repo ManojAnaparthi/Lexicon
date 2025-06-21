@@ -42,7 +42,7 @@
 ## 📁 Repository Structure
 
 Lexicon/<br>
-├── data/            # Processed MS MARCO subset and utility data files<br>
+├── data/            # Processed MS MARCO subset and utility data files(**This has been done locally and the dataset size was too large to push to Github**)<br>
 ├── model/           # Saved Word2Vec and BERT models<br>
 ├── notebook/        # Jupyter notebooks for development and analysis<br>
 ├── web_app/        # Streamlit app code for demo<br>
