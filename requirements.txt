@@ -1,0 +1,12 @@
+streamlit
+datasets
+faiss-cpu
+gensim
+nltk
+numpy
+pandas
+rank-bm25
+sentence-transformers
+scikit-learn
+matplotlib
+tqdm
