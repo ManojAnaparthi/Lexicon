@@ -16,7 +16,7 @@
 
 ## 🎥 Live Demo
 
-👉 [Streamlit Demo Video](https://iitgnacin-my.sharepoint.com/:v:/g/personal/23110071_iitgn_ac_in/Eetee1CE1HdKpPXwFzSvb84BzeRomRpsBKF4EnEJVmJzLA?e=XAthoS)
+👉 [Streamlit Demo Video]([https://iitgnacin-my.sharepoint.com/:v:/g/personal/23110071_iitgn_ac_in/Eetee1CE1HdKpPXwFzSvb84BzeRomRpsBKF4EnEJVmJzLA?e=XAthoS](https://iitgnacin-my.sharepoint.com/:v:/g/personal/23110025_iitgn_ac_in/EResIprMMyJJhK52XxIrGIMBf4Hs5K4U9RNmkhnDAvfvZw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=ANJs5f))
 
 ## ⚙️ Features
 
@@ -42,7 +42,7 @@
 ## 📁 Repository Structure
 
 Lexicon/<br>
-├── data/            # Processed MS MARCO subset and utility data files(**This has been done locally and the dataset size was too large to push to Github**)<br>
+├── data/            # Processed MS MARCO subset and utility data files (**This has been done locally and the dataset size was too large to push to Github**)<br>
 ├── model/           # Saved Word2Vec and BERT models<br>
 ├── notebook/        # Jupyter notebooks for development and analysis<br>
 ├── web_app/        # Streamlit app code for demo<br>
