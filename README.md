@@ -68,6 +68,8 @@ Lexicon/<br>
 - **Semantic Similarity (Mean & Max)**
 - **Hit Rate@5**
 
+## Detailed Report
+- [Report](https://github.com/ManojAnaparthi/Lexicon/blob/main/Project_Report_Lexicon.pdf)
 ## 👥 Contributors
 
 - **A.V.S Manoj** (23110025) – [manoj.anaparthi@iitgn.ac.in](mailto:manoj.anaparthi@iitgn.ac.in)  
